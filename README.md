@@ -35,3 +35,6 @@ LSTM, XGBoost, Temporal Fusion Transformer (TFT), SHAP, promotions, holidays, in
 
 ## Disclaimer
 This is an educational forecasting prototype. Forecasts are planning aids and should be compared with actual demand and business constraints.
+
+AUTHOR 
+ANU SHREE KA
